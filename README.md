@@ -1,2 +1,2 @@
 # Polka
-funny thing
+funny things
